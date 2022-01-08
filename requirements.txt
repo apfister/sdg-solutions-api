@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+arcgis==1.9.1
+openpyxl
+pandas
+numpy
